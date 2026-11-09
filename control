@@ -1,9 +1,8 @@
 Package: com.vartix.qtok
 Name: QTok
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm64
 Description: QTok tweak for TikTok (com.zhiliaoapp.musically), target TikTok v45.x
 Maintainer: VartixTM
 Author: VartixTM
 Section: Tweaks
-Depends: ellekit
